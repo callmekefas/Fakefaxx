@@ -72,7 +72,7 @@ $is_login = isset($_SESSION['user_id']);
             <a href="#read" class="btn2">Baca trivia</a>
         </div>
         <div class="imgBx">
-            <img src="img/einstein.jpg" alt="" class="fitBg" />
+            <img src="img/bumi.png" alt="" class="fitBg" />
         </div>
     </section>
 
