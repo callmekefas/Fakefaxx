@@ -1,2 +1,2 @@
-# Fakefaxx
-web artikel 
+# Fakefact
+adalah aplikasi web yang dirancang untuk menyediakan platform bagi pengguna untuk mengunggah, berbagi, dan menemukan trivia atau fakta menarik dari berbagai kategori seperti sains, sejarah, teknologi, hiburan, dan olahraga. Dalam era digital ini, informasi menjadi sangat mudah diakses, tetapi validitas dan kualitas informasi sering kali dipertanyakan. Factpedia hadir untuk memberikan solusi terhadap tantangan tersebut dengan menyediakan wadah yang terkurasi dan terverifikasi untuk konten trivia.
